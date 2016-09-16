@@ -1,4 +1,4 @@
-package com.java2novice.sorting;
+/*package com.java2novice.sorting;*/
 
 public class MyMergeSort {
 
@@ -63,4 +63,4 @@ public class MyMergeSort {
 
     }
 }
-/*See more at: http://www.java2novice.com/java-sorting-algorithms/merge-sort/#sthash.hphFSzwd.dpuf
+/*See more at: http://www.java2novice.com/java-sorting-algorithms/merge-sort/#sthash.hphFSzwd.dpuf*/
