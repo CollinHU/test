@@ -1,3 +1,5 @@
+package Package;
+
 class QuickSort{
 
 	/*int[] array;
